@@ -99,7 +99,7 @@
       
 		 <div class="container">
 		 
-			<div class="row text-center"><h1>Helping professionals thrive, not just survive</h1></div>
+			<div class="row text-center"><h1>Helping professionals CRY, not just Die</h1></div>
 		 
 		 
 		 </div>
