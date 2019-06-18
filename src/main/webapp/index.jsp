@@ -69,7 +69,7 @@
       </div>
       <div class="navbar navbar-dark bg-dark box-shadow" style=" background-color:#f2f2f2!important;">
         <div class="container d-flex justify-content-between">
-          <h2>Praveen Jenkins-Continuous Deployment Lab</h2
+          <h2>Jenkins-Continuous Deployment Lab</h2
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -99,7 +99,7 @@
       
 		 <div class="container">
 		 
-			<div class="row text-center"><h1>Helping professionals CRY, not just Die</h1></div>
+			<div class="row text-center"><h1>Helping professionals thrive, not just Survive</h1></div>
 		 
 		 
 		 </div>
